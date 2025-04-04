@@ -102,15 +102,13 @@ Other cities like **Woody Creek** and **Golden Oak** are known luxury zones.
 
 ---
 
-## 👨‍💻 About Me  
-Hi, I'm **Sharif**, a passionate **Data Analyst** with expertise in **Power BI, SQL, and data storytelling**.  
+👨‍💻 About Me
+Hi, I'm Shareef Ali, a passionate Data Analyst with expertise in Power BI, SQL, and Python.
 
-📬 **Let’s connect!** Check out my other projects or reach out:  
+📬 Let’s connect! Check out my other projects or reach out:
 
-🔗 **[GitHub Portfolio](https://github.com/shareef99997)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/shareef-ali/)**  
-🔗 **[Personal Website](https://www.shareefdev.com)**  
+🔗 GitHub Portfolio
+🔗 LinkedIn
+🔗 Personal Website
 
-📢 **If you find this project valuable, give it a ⭐ on GitHub!** ⭐  
-
----
+📢 If you find this project valuable, give it a ⭐ on GitHub! ⭐
